@@ -3,6 +3,7 @@ curated set of sites dedicated, in some capacity, to remote work.
 
 ## North America
 
+* https://www.linkedin.com/jobs/search/?keywords=remote%20jobs
 * https://remote.co/remote-jobs
 * https://www.workingnomads.co/jobs
 * https://remotive.io/find-a-job
