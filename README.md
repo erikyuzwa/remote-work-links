@@ -1,5 +1,5 @@
 # remote-work-links
-curated set of updated remote work links, opportunities and sites.
+curated set of sites dedicated, in some capacity, to remote work.
 
 ## North America
 
