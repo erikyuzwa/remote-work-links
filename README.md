@@ -1,5 +1,5 @@
 # remote-work-links
-my own set of updated remote work links, opportunities and sites
+curated set of updated remote work links, opportunities and sites.
 
 ## North America
 
