@@ -6,6 +6,7 @@ curated set of sites dedicated, in some capacity, to remote work.
 * https://www.linkedin.com/jobs/search/?keywords=remote%20jobs
 * https://remote.co/remote-jobs
 * https://www.workingnomads.co/jobs
+* https://www.dailyremote.com/remote-jobs
 * https://remotive.io/find-a-job
 * https://www.skipthedrive.com
 * https://www.outsourcely.com/remote-business-services-jobs
