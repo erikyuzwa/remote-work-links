@@ -12,6 +12,7 @@ curated set of sites dedicated, in some capacity, to remote work.
 * https://www.outsourcely.com/remote-business-services-jobs
 * https://www.wfh.io
 * http://jobscribe.com
+* http://weworkremotely.com
 
 * https://www.remotelyawesomejobs.com
 * https://landing.jobs
